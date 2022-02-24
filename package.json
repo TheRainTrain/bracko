@@ -1,0 +1,21 @@
+{
+  "name": "bracko",
+  "version": "1.0.0",
+  "description": "Bracko is an easy-to-learn data format",
+  "main": "bracko.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Erdi-GitHub/bracko.git"
+  },
+  "keywords": [
+    "Bracko",
+    "markup",
+    "language",
+    "lang",
+    "parse",
+    "parsing",
+    "js"
+  ],
+  "author": "erdi",
+  "license": "MIT"
+}
